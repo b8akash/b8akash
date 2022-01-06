@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akash Singhal, Engineering Manager at Drishti
+- 👋 Hi, I’m [Akash Singhal](https://www.linkedin.com/in/akashdeepsinghal/), Engineering Manager at Drishti
 - 🏝 Nature 💚
 - 👨🏻‍💻 Technology 🧠
 - 📫 Reach me on slack/email: a.singhal@drishti.com
