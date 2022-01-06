@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @b8akash 
-- 👀 I’m interested in Nature and Technology
+- 👋 Hi, I’m Akash Singhal, Engineering Manager at Drishti
+- 🏝 Nature 💚
+- 👨🏻‍💻 Technology 🧠
 - 📫 Reach me on slack/email: a.singhal@drishti.com
 
 <!---
